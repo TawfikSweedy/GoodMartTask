@@ -1,0 +1,6 @@
+framework module Pods_GoodsMartTask {
+  umbrella header "Pods-GoodsMartTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
